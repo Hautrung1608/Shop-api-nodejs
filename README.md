@@ -21,3 +21,8 @@
 * "babel-plugin-module-resolver": "^5.0.0"
 ```
 
+### Requirements - push git
+
+* git add .
+* git commit -m "abc"
+* git push hautrung master
